@@ -1,3 +1,4 @@
 # cse103-lab-LAB3
 
 Lab work for LAB 3 — GitHub Collaboration & API Interaction
+Edited on GitHub to practice git pull
